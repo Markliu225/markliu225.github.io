@@ -9,11 +9,11 @@ redirect_from:
 
 I am a Master by Research student in Computer Science and Engineering at Nanyang Technological University, Singapore, where I work with Yonggang Wen on sustainable computing and resilient communication systems. My current projects emphasize energy-aware infrastructure for large-scale data centers, including compute-power-thermal co-optimization, and the design of reliable network architectures that balance performance with environmental impact.
 
-You can reach me at `xiyuan005@e.ntu.edu.sg` or on LinkedIn as `MarkLiu`.
+You can reach me at `xiyuan005@e.ntu.edu.sg` or on LinkedIn as [MarkLiu]('www.linkedin.com/in/markliu225').
 
 ### Research Interests
-- Satellite network measurement and traffic estimation
-- Fault-tolerant and adaptive traffic engineering
+- Green Computing
+- Resilient Systems
 - Digital twin systems for large-scale computing infrastructure
 
 ### Education
