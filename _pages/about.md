@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master by Research student in Computer Science and Engineering at Nanyang Technological University, Singapore, where I work with Yonggang Wen on sustainable computing and resilient communication systems. My current projects emphasize energy-aware infrastructure for large-scale data centers, including compute-power-thermal co-optimization, and the design of reliable network architectures that balance performance with environmental impact.
 
-You can reach me at `xiyuan005@e.ntu.edu.sg` or on LinkedIn as [MarkLiu]('www.linkedin.com/in/markliu225').
+You can reach me at `xiyuan005@e.ntu.edu.sg` or on LinkedIn as [MarkLiu](www.linkedin.com/in/markliu225).
 
 ### Research Interests
 - Green Computing
@@ -23,7 +23,7 @@ You can reach me at `xiyuan005@e.ntu.edu.sg` or on LinkedIn as [MarkLiu]('www.li
 ### Selected Publications
 - X. Liu et al. "CountingStars: Low-overhead Network-wide Measurement in LEO Mega-constellation Networks," arXiv:2508.13512, submitted to INFOCOM 2026.
 - X. Liu et al. "FauTE: Fault-tolerant Traffic Engineering in Data Center Network," 9th Asia-Pacific Workshop on Networking (APNet), 2025.
-- L. Qin*, X. Liu* et al. "Satformer: Accurate and Robust Traffic Data Estimation for Satellite Networks," NeurIPS 2024. (*equal contribution)
+- L. Qin\*, X. Liu\* et al. "Satformer: Accurate and Robust Traffic Data Estimation for Satellite Networks," NeurIPS 2024. (*equal contribution)
 - X. Liu et al. "Topo Ten: Topology-Driven Accurate Traffic Data Estimation for LEO Mega-Constellation Networks," IEEE GLOBECOM 2024.
 
 ### Research Experience
